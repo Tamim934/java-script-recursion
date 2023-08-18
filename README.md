@@ -2,7 +2,10 @@
 # recursion 
 is when a fuction call itslef until someone stops it if no one stop recuse it gose on forr ever
 
-modreb origraming lanhues like java script alreadt have for while allternitve to recursion 
+modreb origraming lanhues like java script alreadt have for while allternitve to recursion
+recures gose on a envinete loop if it dose stop
+buy if or esle or else with a condation on it if dose not stop 
+it will go on infinetly
 
 
 
@@ -34,6 +37,17 @@ console.log(tamim(10));
 ```
 # closure
 A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function
+
+mean going in a fuction like the exapmle bellow
+
+function main{
+fuction{
+   functiion{
+           fuction{
+           function   {
+           }
+           }
+           }
 ```javascript
 function factorial(num) {
 
