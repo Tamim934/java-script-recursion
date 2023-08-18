@@ -51,8 +51,20 @@ console.log(tamim(10));
 ```
 # that all i learn today
 ![](https://th.bing.com/th/id/OIP.2AQkrL6YTnNGked92a8_-wHaEX?w=248&h=180&c=7&r=0&o=5&pid=1.7)
+
+
 closure mean bastan and recure means going in a loop for invity
 
 untill it retunrs
 
 ![](https://th.bing.com/th/id/R.3073469c33e5e89aee02beb667fcfacf?rik=VNFFqRcowjfg3A&pid=ImgRaw&r=0)
+
+there are 2 diffrences in recure and closure byr
+
+theree is np major diffrent
+
+recure work with fuction
+
+and closure works with fuctions two 
+
+
