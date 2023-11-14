@@ -1,12 +1,8 @@
 
 # recursion 
-is when a fuction call itslef until someone stops it if no one stop recuse it gose on forr ever
+is a function that call it slef untill it stops
 
-modreb origraming lanhues like java script alreadt have for while allternitve to recursion
-recures gose on a envinete loop if it dose stop
-buy if or esle or else with a condation on it if dose not stop 
-it will go on infinetly
-
+Modern programming languages like JavaScript have had alternatives to recursion for a while. Recursion goes on an infinite loop if it doesn’t stop. But with an if or else condition on it, if it doesn’t stop, it will go on infinitely
 
 
 
