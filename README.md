@@ -10,7 +10,7 @@ Modern programming languages like JavaScript have had alternatives to recursion 
 
 ## how to use
 
-```javascript
+```javascript!
 function factorial(num) {
 
     if (num === 0 || num === 1) {
